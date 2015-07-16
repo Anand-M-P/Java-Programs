@@ -1,0 +1,33 @@
+This simple java program will find all the permutations of a given string.
+Input the string on prompt and the program will output the possible permutations of the string.
+
+sample input
+------------
+abcd
+
+sample output
+-------------
+abcd
+abdc
+acbd
+acdb
+adbc
+adcb
+bacd
+badc
+bcad
+bcda
+bdac
+bdca
+cabd
+cadb
+cbad
+cbda
+cdab
+cdba
+dabc
+dacb
+dbac
+dbca
+dcab
+dcba
